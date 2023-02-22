@@ -1,5 +1,5 @@
 # 💫 About Me
-😀 Hi 👋, I'm Štěpán Hofmann and I'm 15 years old😀<br>😎 I'm Student, Programmer, Coder, Creator of programming language Soup and data format SSDN and Founder of [LoudTimeGames](https://www.gamejolt.com/invite/LoudTimeGames) 😎<br>
+😀 Hi 👋, I'm Štěpán Hofmann and I'm 15 years old😀<br>😎 I'm Student, Programmer, Coder, Creator of programming language Soup and data format SSDN and Founder of [LoudTimeGames](https://www.gamejolt.com/invite/LoudTimeGames)😎<br>
 
 
 ## 🌐 Socials
