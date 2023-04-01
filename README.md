@@ -12,8 +12,5 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="41" height="41"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/neonek26/testgraph2/blob/main/scratch-cat-logo-7F652C6253-seeklogo.com.png" alt="scratch" width="50" height="50"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/neonek26/testgraph2/blob/main/apps.49046.14590360557032091.5972da3f-cebc-43e1-ab2f-7f8dc310fc45.png" alt="turbowarp" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/neonek26/testgraph2/blob/main/Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/neonek26/testgraph2/blob/main/tu3gt6ysfxq71.webp" alt="unity" width="50" height="50"/> </a>
 
 
-https://github.com/neonek26/testgraph2/blob/main/apps.49046.14590360557032091.5972da3f-cebc-43e1-ab2f-7f8dc310fc45.png
-
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stepanhofmann) 
