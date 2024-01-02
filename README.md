@@ -1,5 +1,5 @@
 # 💫 About Me
-😀 Hi 👋, I'm Štěpán and I'm 16 years old😀<br>😎 I'm IT Student, Programmer, Coder and Founder of [LoudTimeGames](https://www.gamejolt.com/invite/LoudTimeGames)😎<br>
+😀 Hi 👋, I'm Štěpán and I'm 16 years old😀<br>😎 I'm an IT Student, Programmer, Coder and Founder of [LoudTimeGames](https://www.gamejolt.com/invite/LoudTimeGames)😎<br>
 
 
 ## 🌐 Socials
